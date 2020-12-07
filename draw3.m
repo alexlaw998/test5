@@ -1,4 +1,4 @@
-function draw3()
+function draw3() %Track problem of dog chasing man
 pause(2);
 hold on;
 axis([0 120 0 120]);
